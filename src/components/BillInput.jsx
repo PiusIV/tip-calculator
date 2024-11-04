@@ -1,5 +1,3 @@
-import "../App.css";
-
 function BillInput({ bill, onSetBill }) {
   // console.log(bill);
 
